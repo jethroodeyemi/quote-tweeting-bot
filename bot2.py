@@ -3,10 +3,10 @@ import time
 
 def timer(days):
     twitter_auth_keys = { 
-        "consumer_key"        : "CNpeVrrmf57DOrWzETKpzwRA6",
-        "consumer_secret"     : "yfypGXmBQ72QxPuMXFq7AcJ8hA9N8br1Pu7D9YRtlLVEABhyNr",
-        "access_token"        : "1243164206481973249-1yoxu697UWVezOsU5q6CN1DImPpim6",
-        "access_token_secret" : "qWgAV18xfNRfwqC6nkjLQSP5yOZx8KeZgoMT3HtOGrAZ2"
+        "consumer_key"        : "",
+        "consumer_secret"     : "",
+        "access_token"        : "",
+        "access_token_secret" : ""
     }
  
     auth = tweepy.OAuthHandler(
